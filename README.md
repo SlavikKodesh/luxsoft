@@ -1,4 +1,3 @@
-#luxsoft
 #include<iostream>
 
 struct Cell
